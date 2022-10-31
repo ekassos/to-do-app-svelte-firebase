@@ -6,6 +6,7 @@ $\textcolor{ForestGreen}{\textbf{\emph{Completed:}}} \text{\emph{ Sunday, Oct 30
 Run the following commands to start the app at `http://localhost:8080/`.
 
 ```bash
+cd realtime-todos
 npm install
 npm run dev
 ```
